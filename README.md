@@ -14,7 +14,7 @@ Hassas sayfalara erişim girişimleri (/admin, /login, /wp-login)
 
 ⏱️ Zaman bilgisi datetime tipine dönüştürülür
 
-
+📂 Proje Yapısı
 ```python
 ids_project/
 │
